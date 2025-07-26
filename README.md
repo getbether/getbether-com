@@ -1,3 +1,3 @@
 # getbether-com
 
-to be published...
+Repo of getbether.com website
